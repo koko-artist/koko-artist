@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=ART+PORTFOLIO+%7C+Digital+Artist" alt="Banner" />
+  <img src="[https://via.placeholder.com/1200x300.png?text=ART+PORTFOLIO+%7C+Digital+Artist](https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/33b7/1208428/6a752901e04088780353b6f3ab4331bf)" alt="Banner" />
 </p>
 
-<h1 align="center">🎨 Hola, soy <strong>[Tu Nombre]</strong> </h1>
+<h1 align="center">🎨 Hola, soy <strong>Koko</strong> </h1>
 <h3 align="center">Artista Digital | Ilustración | Concept Art | Diseño Visual</h3>
 
 ---
@@ -19,53 +19,11 @@ Siempre estoy explorando nuevos estilos, técnicas y herramientas para mejorar m
 - 🔮 Fotomanipulación y arte digital  
 - 🎬 Arte para videojuegos, branding y contenido visual  
 
----
-
-## 🖼️ Portafolio Destacado
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Artwork+Showcase" width="80%" />
-</p>
-
-> Puedes ver más de mi trabajo aquí:  
-> 🌐 **Portafolio:** *https://tusitio.com*  
-> 📸 **Instagram:** *https://instagram.com/tuusuario*  
-
----
-
 ## 🛠️ Herramientas y Software
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=ps,ai,pr,blender,figma&theme=light" />
 </p>
-
-- Adobe Photoshop  
-- Adobe Illustrator  
-- Procreate  
-- Blender  
-- Figma  
-
----
-
-## 🎯 Qué hago en GitHub
-
-Aunque mi mundo principal es el arte, aquí comparto:
-
-- Diseños de UI/UX  
-- Recursos visuales  
-- Paquetes de íconos  
-- Archivos de proyectos creativos  
-- Experimentos con arte generativo  
-
----
-
-## 💌 Contáctame
-
-¿Quieres trabajar conmigo, hacer una colaboración o encargar una ilustración?
-
-📧 **Correo:** *tuemail@correo.com*  
-💼 **Behance:** *https://behance.net/tuusuario*  
-🐦 **Twitter/X:** *https://x.com/tuusuario*  
 
 ---
 
