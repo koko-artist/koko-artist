@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://via.placeholder.com/1200x300.png?text=ART+PORTFOLIO+%7C+Digital+Artist](https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/33b7/1208428/6a752901e04088780353b6f3ab4331bf)" alt="Banner" />
+  <img src="https://images.squarespace-cdn.com/content/v1/5407b666e4b010601aa21d7a/1542746999223-KJR6BJYI3PDHOKIUCBMT/tumblr_owm80xp8zo1r0hxubo2_r1_1280.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">🎨 Hola, soy <strong>Koko</strong> </h1>
